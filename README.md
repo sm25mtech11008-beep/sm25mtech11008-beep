@@ -51,8 +51,8 @@ My goal is to build intelligent systems that combine **data, automation, and AI*
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/your-link)
-📧 **Email:** [yourname@domain.com](mailto:yourname@domain.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/shashi-prakash-531b75269/))
+📧 **Email:** [shashiprakashjadeja7@gmail.com](mailto:shashiprakashjadeja7@gmail.com)
 
 ---
 
