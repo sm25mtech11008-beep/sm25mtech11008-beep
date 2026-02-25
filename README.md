@@ -40,7 +40,7 @@ My current work centers on developing ML pipelines, LLM-powered applications, an
 
 **Tools & Platforms:** Jupyter · Streamlit · Git · VS Code
 
-**Domains:** Smart Mobility · Internet of Things · Computer Networks · Data Analytics
+**Domains:** Smart Mobility · Internet of Things · Computer Networks · Data Science
 
 ---
 
