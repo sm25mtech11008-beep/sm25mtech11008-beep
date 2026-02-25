@@ -1,60 +1,77 @@
-# 👋 Hi, I'm Shashi Prakash
+<h1 align="center">Shashi Prakash</h1>
+<h3 align="center">M.Tech in Smart Mobility · IIT Hyderabad</h3>
 
-🎓 **M.Tech in Smart Mobility @ IIT Hyderabad**
-💻 **Machine Learning | Generative AI | Python Development**
-
----
-
-### 🧠 About Me
-
-I’m a postgraduate student at IIT Hyderabad passionate about applying **Machine Learning** and **Generative AI** to solve real-world problems in **Smart Mobility** and **IoT**.
-My goal is to build intelligent systems that combine **data, automation, and AI** to make life smarter and more efficient.
-
-**Quick Facts**
-
-* 🎯 B.Tech in Biotechnology – *NIT Warangal*
-* 🧩 Qualified GATE (DA) and transitioned into AI & Data Analytics
-* 🔬 Working on AI-driven projects involving ML pipelines and LLMs
-* 🏸 Sports lover and team player beyond the keyboard
+<p align="center">
+  <a href="mailto:shashiprakashjadeja7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-shashiprakashjadeja7%40gmail.com-blue?style=flat-square&logo=gmail" />
+  </a>
+  <img src="https://img.shields.io/badge/IIT%20Hyderabad-Smart%20Mobility-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/GATE%20DA-Qualified-green?style=flat-square" />
+</p>
 
 ---
 
-### 🧰 Tech Stack
+## About
 
-| Category              | Tools & Technologies                                                        |
-| --------------------- | --------------------------------------------------------------------------- |
-| **Languages**         | 🐍 Python  •  💻 C++  •  🗄️ SQL                                            |
-| **AI/ML**             | 🤖 Scikit-Learn  •  🧠 TensorFlow  •  🔥 PyTorch                            |
-| **Libraries**         | 📊 NumPy  •  📈 Pandas  •  🎨 Matplotlib  •  🌈 Seaborn                     |
-| **Development Tools** | 🧮 Jupyter  •  ⚙️ Streamlit  •  🧰 Git  •  🖋️ VS Code                      |
-| **Domains**           | 🚗 Smart Mobility  •  🌐 IoT  •  📡 Computer Networks  •  📊 Data Analytics |
+I am a postgraduate researcher at IIT Hyderabad specializing in Smart Mobility, with a focus on applying Machine Learning and Generative AI to real-world transportation and IoT challenges. My academic journey spans Biotechnology (B.Tech, NIT Warangal) to Data Analytics and AI — a transition driven by a deep interest in intelligent systems and data-driven decision making.
+
+My current work centers on developing ML pipelines, LLM-powered applications, and intelligent automation systems for smart mobility infrastructure.
 
 ---
 
-### 🚀 Featured Projects
+## Education
 
-🔹 **[Smart Traffic Congestion Predictor](#)** – Regression-based ML model for traffic forecasting
-🔹 **[Generative AI Chat Assistant](#)** – LLM-powered chatbot built using OpenAI API
-🔹 **[Python Automation Toolkit](#)** – Collection of scripts for IoT data processing and analysis
+| Degree | Institution | Focus |
+|--------|-------------|-------|
+| M.Tech | IIT Hyderabad | Smart Mobility |
+| B.Tech | NIT Warangal | Biotechnology |
 
-*(Project repositories will be added and updated regularly.)*
-
----
-
-### 📊 GitHub Insights
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sm25mtech11008-beep\&show_icons=true\&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sm25mtech11008-beep\&layout=compact\&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sm25mtech11008-beep\&theme=tokyonight)
+**GATE (DA)** — Qualified | *Gateway into AI & Data Analytics*
 
 ---
 
-### 🌐 Connect With Me
+## Technical Skills
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/shashi-prakash-531b75269/))
-📧 **Email:** [shashiprakashjadeja7@gmail.com](mailto:shashiprakashjadeja7@gmail.com)
+**Languages:** Python · SQL
+
+**ML / AI:** Scikit-Learn · TensorFlow · PyTorch
+
+**Data & Visualization:** NumPy · Pandas · Matplotlib · Seaborn
+
+**Tools & Platforms:** Jupyter · Streamlit · Git · VS Code
+
+**Domains:** Smart Mobility · Internet of Things · Computer Networks · Data Analytics
 
 ---
 
-⭐ *“Learning continuously. Building passionately. Sharing openly.”*
+## Projects
 
+### Smart Traffic Congestion Predictor
+Regression-based ML model designed to forecast traffic congestion patterns using real-world mobility data. Focused on feature engineering and model evaluation for urban traffic scenarios.
+
+### Generative AI Chat Assistant
+LLM-powered conversational assistant built on the OpenAI API. Incorporates prompt engineering techniques and contextual dialogue management for domain-specific interactions.
+
+### Python Automation Toolkit
+A curated collection of Python scripts for IoT data ingestion, preprocessing, and analysis — built to streamline common data engineering workflows.
+
+> Repository links will be updated as projects are published.
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sm25mtech11008-beep&show_icons=true&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm25mtech11008-beep&layout=compact&hide_border=true" height="150"/>
+</p>
+
+---
+
+## Contact
+
+📧 [shashiprakashjadeja7@gmail.com](mailto:shashiprakashjadeja7@gmail.com)
+
+---
+
+*Continuously learning. Building with purpose. Sharing openly.*
