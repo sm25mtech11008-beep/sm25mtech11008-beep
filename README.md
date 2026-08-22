@@ -34,13 +34,13 @@ My current work centers on developing ML pipelines, LLM-powered applications, an
 
 **Languages:** Python · SQL
 
-**ML / AI:** Scikit-Learn · TensorFlow · PyTorch
+**ML / AI:** Scikit-Learn · TensorFlow · PyTorch · Hugging Face Transformers
 
 **Data & Visualization:** NumPy · Pandas · Matplotlib · Seaborn
 
 **Tools & Platforms:** Jupyter · Streamlit · Git · VS Code
 
-**Domains:** Smart Mobility · Internet of Things · Computer Networks · Data Science
+**Domains:** Smart Mobility · Internet of Things · Computer Networks · Data Science · NLP · Speech Recognition
 
 ---
 
@@ -49,13 +49,15 @@ My current work centers on developing ML pipelines, LLM-powered applications, an
 ### Smart Traffic Congestion Predictor
 Regression-based ML model designed to forecast traffic congestion patterns using real-world mobility data. Focused on feature engineering and model evaluation for urban traffic scenarios.
 
-### Generative AI Chat Assistant
-LLM-powered conversational assistant built on the OpenAI API. Incorporates prompt engineering techniques and contextual dialogue management for domain-specific interactions.
+### [Nova — Offline Voice Assistant](https://github.com/sm25mtech11008-beep/NOVA)
+- Built a Python voice assistant using speech recognition and TTS for instant, hands-free command execution.
+- Implemented 12+ voice commands — web search, Wikipedia, weather, app control — via OS-level automation.
+- Designed an offline DialoGPT fallback with persistent memory for natural, private conversations.
 
 ### Python Automation Toolkit
 A curated collection of Python scripts for IoT data ingestion, preprocessing, and analysis — built to streamline common data engineering workflows.
 
-> Repository links will be updated as projects are published.
+> Additional repository links will be updated as projects are published.
 
 ---
 
