@@ -34,11 +34,11 @@ My current work centers on developing ML pipelines, LLM-powered applications, an
 
 **Languages:** Python · SQL
 
-**ML / AI:** Scikit-Learn · TensorFlow · PyTorch · Hugging Face Transformers
+**ML / AI:** Scikit-Learn · TensorFlow · PyTorch · XGBoost · Hugging Face Transformers
 
 **Data & Visualization:** NumPy · Pandas · Matplotlib · Seaborn
 
-**Tools & Platforms:** Jupyter · Streamlit · Git · VS Code
+**Tools & Platforms:** Jupyter · Streamlit · DuckDB · Power BI · Git · VS Code
 
 **Domains:** Smart Mobility · Internet of Things · Computer Networks · Data Science · NLP · Speech Recognition
 
@@ -46,18 +46,25 @@ My current work centers on developing ML pipelines, LLM-powered applications, an
 
 ## Projects
 
-### Smart Traffic Congestion Predictor
-Regression-based ML model designed to forecast traffic congestion patterns using real-world mobility data. Focused on feature engineering and model evaluation for urban traffic scenarios.
-
 ### [Nova — Offline Voice Assistant](https://github.com/sm25mtech11008-beep/NOVA)
 - Built a Python voice assistant using speech recognition and TTS for instant, hands-free command execution.
 - Implemented 12+ voice commands — web search, Wikipedia, weather, app control — via OS-level automation.
 - Designed an offline DialoGPT fallback with persistent memory for natural, private conversations.
 
-### Python Automation Toolkit
-A curated collection of Python scripts for IoT data ingestion, preprocessing, and analysis — built to streamline common data engineering workflows.
+### [India Digital Payments Intelligence](https://github.com/sm25mtech11008-beep/india-digital-payments-intelligence)
+- Built a SQL/DuckDB pipeline transforming raw NPCI, RBI, and Census data into 15+ validated analytical views.
+- Applied Spearman correlation and multiple regression (R²=0.84) to quantify income's link to UPI adoption.
+- Designed a 5-page Power BI dashboard exposing how absolute and per-capita UPI trends diverge across states.
 
-> Additional repository links will be updated as projects are published.
+### [Indian Urban Air Quality Intelligence System](https://github.com/sm25mtech11008-beep/AQI_Project)
+- Built a proxy AQI predictor for 24 Indian cities using only weather and traffic signals to avoid data leakage.
+- Tuned Gradient Boosting and Random Forest models to R²=0.956 and 89.4% accuracy via city-grouped cross-validation.
+- Deployed an interactive Streamlit app for real-time AQI and health-risk inference.
+
+### [Sensor Fault Detection — Automotive IMU](https://github.com/sm25mtech11008-beep/sensor-fault-detection-imu)
+- Co-developed an ML pipeline classifying automotive IMU sensor faults from real-world PVS driving data.
+- Engineered 8 time-domain features and calibrated synthetic fault injection across four fault states.
+- Achieved 90.78% accuracy with SVM, benchmarking XGBoost at 28× faster inference for real-time deployment.
 
 ---
 
