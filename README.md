@@ -71,8 +71,12 @@ My current work centers on developing ML pipelines, LLM-powered applications, an
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sm25mtech11008-beep&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm25mtech11008-beep&layout=compact&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=sm25mtech11008-beep&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=sm25mtech11008-beep&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sm25mtech11008-beep&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
